@@ -1,0 +1,3 @@
+total de palavras repitidas[1]
+total de frases longas[1]
+Total de linhas[10]
